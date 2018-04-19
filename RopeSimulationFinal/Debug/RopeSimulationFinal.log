@@ -1,0 +1,7 @@
+﻿  acheronti_programming_project_3.cpp
+c:\users\chaz acheronti\desktop\workspace\programming\2018\cs 116b\ropesimulationfinal\ropesimulationfinal\acheronti_programming_project_3.cpp(187): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\chaz acheronti\desktop\workspace\programming\2018\cs 116b\ropesimulationfinal\ropesimulationfinal\acheronti_programming_project_3.cpp(341): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\chaz acheronti\desktop\workspace\programming\2018\cs 116b\ropesimulationfinal\ropesimulationfinal\acheronti_programming_project_3.cpp(341): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\chaz acheronti\desktop\workspace\programming\2018\cs 116b\ropesimulationfinal\ropesimulationfinal\acheronti_programming_project_3.cpp(342): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\chaz acheronti\desktop\workspace\programming\2018\cs 116b\ropesimulationfinal\ropesimulationfinal\acheronti_programming_project_3.cpp(342): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  RopeSimulationFinal.vcxproj -> C:\Users\Chaz Acheronti\Desktop\Workspace\Programming\2018\CS 116B\RopeSimulationFinal\Debug\RopeSimulationFinal.exe

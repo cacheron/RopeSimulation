@@ -1,0 +1,12 @@
+﻿  acheronti_programming_project_3.cpp
+acheronti_programming_project_3.cpp(187): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+acheronti_programming_project_3.cpp(339): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+acheronti_programming_project_3.cpp(339): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+acheronti_programming_project_3.cpp(340): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+acheronti_programming_project_3.cpp(340): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Generating code
+  1 of 158 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RopeSimulationFinal.vcxproj -> C:\Users\Chaz Acheronti\Desktop\Workspace\Programming\2018\CS 116B\RopeSimulationFinal\Release\RopeSimulationFinal.exe
